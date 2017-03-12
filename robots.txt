@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: 
+Sitemap: http://movie.0xgg.com/sitemap.xml
